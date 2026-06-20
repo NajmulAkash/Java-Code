@@ -1,5 +1,4 @@
-a=InputDeviceInfo
-)
+prompt(interaccading the word )
 if (a=='a'){
     console.log("Vowel")
 }
